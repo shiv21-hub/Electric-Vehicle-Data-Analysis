@@ -72,4 +72,4 @@ This dashboard helps in understanding the rapid growth and adoption of electric 
 
 ## 🔗 Author
 **Shivam Hande**  
-Aspiring Data Analyst | Python | SQL | Tableau | Power BI
+Aspiring Data Analyst | Python | SQL |Excle | Tableau | Power BI
